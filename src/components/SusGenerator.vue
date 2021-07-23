@@ -5,7 +5,7 @@
 
 <script lang="ts">
 import { ref, defineComponent } from 'vue'
-import {susses} from "../assets/susses.js"
+import {susses} from "../assets/susses"
 
 const sample = (arr: string[]) => {
   return arr[Math.floor(Math.random() * arr.length)];

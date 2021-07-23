@@ -1,5 +1,5 @@
 <template>
-  <img alt="Amogus" src="./assets/amogus.png" :style="{width: '400px', height: auto}" />
+  <img alt="Amogus" src="./assets/amogus.png" :style="{width: '400px', height: 'auto'}" />
   <SusGenerator/>
 </template>
 
